@@ -1,4 +1,5 @@
 // tambah comment baru
+//tambah comment lagi
 package main
 
 import (
